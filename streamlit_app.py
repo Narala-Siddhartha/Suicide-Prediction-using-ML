@@ -111,7 +111,7 @@ if __name__ == "__main__":
         predict(data)
     if nav=="Feedback":
         Feedback()
-    st.write(f'''<span>Made by </span><a href="https://www.siddhartha.ml/">Narala Siddhartha</a>''',unsafe_allow_html=True)
+    st.write(f'''<span>Made by </span><a href="https://www.siddhartha.tech/">Narala Siddhartha</a>''',unsafe_allow_html=True)
         
 
     # if nav == "Contribute":
